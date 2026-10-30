@@ -1,0 +1,6 @@
+{
+  "name": "FISIKA JENIUS – TEORI KINETIK GAS",
+  "description": "Aplikasi Web Pembelajaran dan Simulasi Latihan TKA Fisika Profesional bersama Mister Jo. Pahami Konsepnya, Kuasai Hitungannya, Taklukkan TKA-nya!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
